@@ -1,0 +1,7 @@
+{
+  "name": "EtsyBooster",
+  "description": "An all-in-one AI platform for Etsy sellers to find trending niches, generate SEO-optimized listings, and create professional mockups.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
